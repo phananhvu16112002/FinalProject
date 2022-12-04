@@ -8,5 +8,9 @@
  </p> username = admin@gmail.com </p>
  </p> password = 123456 </p>
  </p> securityQuestion = Da Thien </p>
+  </p> Account staff: </p>
+ </p> username = test@gmail.com </p>
+ </p> password = 123456 </p>
+ </p> securityQuestion = Dung </p>
   
 
